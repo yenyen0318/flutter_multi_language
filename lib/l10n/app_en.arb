@@ -1,0 +1,30 @@
+{
+  "helloWorld": "Hello World!",
+  "@helloWorld": {
+    "description": "The conventional newborn programmer greeting"
+  },
+  "appName": "app name",
+  "@appName": {
+    "description": "app 名稱"
+  },
+  "drawerHeader": "drawer header",
+  "@drawerHeader": {
+    "description": "側邊欄表頭"
+  },
+  "languageChange": "language change",
+  "@languageChange": {
+    "description": "語系切換"
+  },
+  "languageZh": "繁體中文（台灣）",
+  "@languageZh": {
+    "description": "繁體中文（台灣）"
+  },
+  "languageEn": "English（United States）",
+  "@languageEn": {
+    "description": "English（United States）"
+  },
+  "gridViewPage": "Grid View Page",
+  "@gridViewPage": {
+    "description": "Grid 頁面"
+  }
+}

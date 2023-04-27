@@ -1,0 +1,10 @@
+{
+    "@@locale": "zh",
+    "helloWorld": "多語系練習",
+    "appName": "app 名稱",
+    "drawerHeader": "側邊欄表頭",
+    "languageChange": "語系切換",
+    "languageZh": "繁體中文（台灣）",
+    "languageEn": "English（United States）",
+    "gridViewPage": "Grid 頁面"
+}
